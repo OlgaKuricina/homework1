@@ -10,7 +10,7 @@
   <header>
     <h1>Cinnamon Bun </h1>
   </header>
-    <p><h3><a id="history"> History of a Swedish cinnamon bun </a></h3></p>
+    <h3 style="color:brown"> History of a Swedish cinnamon bun </h3>
     <p>A cinnamon bun (<em>en kanelbulle</em>) can be traced back to 1920, when people in Sweden started to recover
     from the 1st World War. With the income levels rising, some Swedes could now afford to buy luxurious ingredients
 like cinnamon, butter, spices, and bake these indulgent sweet pastries. However, it was not until 1950s that a kanelbulle
