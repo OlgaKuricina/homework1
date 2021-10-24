@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv=“X-UA-Compatible” content=“ie=edge”>
-    <link rel="stylesheet" type="text/css" href="style1.css">
     <title>Cinnamon Bun</title>
 </head>
 <body>
@@ -62,10 +61,10 @@ and that brings back nostalgic memories of cold winter evenings of childhood.</p
 </div>
 <br>
     <p>Go back to <a href="#history"> history of the cinnamon bun</a></p>
-
-    <footer>
-        <p style="text-align:center">&copy; 2020 Olga Kuricina</p>
+<footer>
+        <center><p>2021 Olga Kuricina</p></center>
     </footer>
+          
 </body>
 
 </html>
