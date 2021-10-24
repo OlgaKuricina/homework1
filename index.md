@@ -28,9 +28,9 @@ and that brings back nostalgic memories of cold winter evenings of childhood.</p
     and drinking tea, but gathering with people and taking a moment to enjoy stillness and catch up on the topics that are 
     not related to work. No wonder Swedish people are considered to be one of the most happy nations in the world. </p>
     <hr size="5" color="brown">
-   <img src="images/KB5.jpg" height="300px"alt="a_cinnamon_bun"class="center">
-   <img src="images/KB3.jpg" height="300px"width="400px"alt="a_cinnamon_bun"class="center">
-   <img src="images/KB2.jpg" height="300px"alt="a_cinnamon_bun"class="center">
+<img src="https://fv9-3.failiem.lv/thumb_show.php?i=ancv7wa2x&view" height="300px"alt="a_cinnamon_bun"class="center">
+   <img src="https://fv9-1.failiem.lv/thumb_show.php?i=antzwzx25&view" height="300px"width="400px"alt="a_cinnamon_bun"class="center">
+   <img src="https://fv9-1.failiem.lv/thumb_show.php?i=antzwzx25&view" height="300px"alt="a_cinnamon_bun"class="center">
     <hr size="5" color="brown">
     <br>
 <div class="list">
